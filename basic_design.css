@@ -1,0 +1,17 @@
+h1{
+    color:dimgray;
+    font-size: 40px;
+}
+h2{
+    color:dimgray;
+    }
+
+p{
+    color: gray;
+    font-weight: bold;
+}
+.subHeaders{
+    color:brown;
+    text-align: left;
+    font-weight: bold;
+}
