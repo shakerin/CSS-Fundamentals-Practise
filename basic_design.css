@@ -12,7 +12,9 @@ nav a {
 h1{
     color:dimgray;
     font-size: 40px;
+    text-transform: uppercase;
 }
+
 h2{
     color:dimgray;
     }
@@ -21,6 +23,7 @@ p{
     color: gray;
     font-weight: bold;
 }
+
 .subHeaders{
     color:brown;
     text-align: left;
